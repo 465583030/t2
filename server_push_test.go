@@ -4,7 +4,7 @@
 
 // +build go1.8
 
-package http2
+package t2
 
 import (
 	"errors"

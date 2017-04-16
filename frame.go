@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package http2
+package t2
 
 import (
 	"bytes"
@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"golang.org/x/net/http2/hpack"
+	"github.com/sideshow/t2/hpack"
 	"golang.org/x/net/lex/httplex"
 )
 

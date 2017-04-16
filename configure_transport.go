@@ -4,7 +4,7 @@
 
 // +build go1.6
 
-package http2
+package t2
 
 import (
 	"crypto/tls"

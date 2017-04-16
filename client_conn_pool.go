@@ -4,7 +4,7 @@
 
 // Transport code's client connection pooling.
 
-package http2
+package t2
 
 import (
 	"crypto/tls"

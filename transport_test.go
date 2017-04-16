@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package http2
+package t2
 
 import (
 	"bufio"
@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"golang.org/x/net/http2/hpack"
+	"github.com/sideshow/t2/hpack"
 )
 
 var (

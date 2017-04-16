@@ -4,7 +4,7 @@
 
 // +build go1.7
 
-package http2
+package t2
 
 import (
 	"context"

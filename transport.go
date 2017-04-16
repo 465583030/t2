@@ -4,7 +4,7 @@
 
 // Transport code.
 
-package http2
+package t2
 
 import (
 	"bufio"
@@ -26,7 +26,7 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/net/http2/hpack"
+	"github.com/sideshow/t2/hpack"
 	"golang.org/x/net/idna"
 	"golang.org/x/net/lex/httplex"
 )

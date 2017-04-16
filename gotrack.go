@@ -5,7 +5,7 @@
 // Defensive debug-only utility to track that functions run on the
 // goroutine that they're supposed to.
 
-package http2
+package t2
 
 import (
 	"bytes"
